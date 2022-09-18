@@ -17,7 +17,7 @@ global.gopay = '6285838571629'
 //Name Bot & Grouplink//
 global.namebot = 'M-KlisMd'
 global.gc = 'https://chat.whatsapp.com/LJT98oXIdfR0Alkdvuawmk'
-global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://youtube.com/channel/UCkZLb5xzRxdweFWYCGx9XEw' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //Tanpilan wm Bot ( Sebagian Tidak di fungsi kan)//
