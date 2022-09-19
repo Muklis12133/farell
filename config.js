@@ -1,13 +1,13 @@
 //Ini untuk setting Bot//
 
 //『 Utama 』 //
-global.owner = ['6285896661014']  // isi jika perlu
-global.mods = ['6285896661014']   // isi jika perlu
-global.prems = ['6285896661014']  // isi jika perlu
+global.owner = ['6285788657046']  // isi jika perlu
+global.mods = ['6285788657046']   // isi jika perlu
+global.prems = ['6285788657046']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
-global.nameowner = '⫹⫺ Kliss' // isi nama kalian bebas
-global.numberowner = '6285896661014' // isi nomor kalian dengan awalan seperti di contoh 
+global.nameowner = '⫹⫺ Farell' // isi nama kalian bebas
+global.numberowner = '6285788657046' // isi nomor kalian dengan awalan seperti di contoh 
 global.instagram = 'https://instagram.com/klis_jbff' // isi Instagram kalian harus link
 global.github = 'https://github.com/BOTCAHX' // gausah di isi juga gpp bro
 global.dana = '6285896661014' // isi dengan nomor dana yg kamu punya 
