@@ -1,9 +1,9 @@
 //Ini untuk setting Bot//
 
 //『 Utama 』 //
-global.owner = ['6285788657046']  // isi jika perlu
-global.mods = ['6285788657046']   // isi jika perlu
-global.prems = ['6285788657046']  // isi jika perlu
+global.owner = ['6285896661014']  // isi jika perlu
+global.mods = ['6285664381292']   // isi jika perlu
+global.prems = ['6285664381292']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
 global.nameowner = '⫹⫺ Farell' // isi nama kalian bebas
